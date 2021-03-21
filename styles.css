@@ -1,0 +1,18 @@
+body{
+    background: #3867d6;
+}
+.Ramo{
+    font-size: 25px;
+}
+.dias{
+    background: #82589F;
+}
+.libre{
+    background: #48dbfb;
+}
+.ocupado{
+    background: #FEA47F;
+}
+.hora{
+    background: #D6A2E8;
+}
